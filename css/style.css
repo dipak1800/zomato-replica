@@ -14,12 +14,13 @@ list-style:none;}
 .app a{
 text-decoration:none;
 }
+/*
 #login{
-	background:url(bg.jpg);
+	background:url(images/bg.jpg);
 	background-size:cover ;
 	background-repeat:no-repeat;
 	min-height:580px;
-}
+}*/
 
 .loginul{
 	display:flex;
