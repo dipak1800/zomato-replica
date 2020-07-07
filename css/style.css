@@ -108,6 +108,10 @@ text-decoration:none;
 	 h5{
 		 font-size:45px;
 	 }
+	 .detect-btn{
+	width:80%;
+	margin-top: 18px;							
+}
  }
  .main-container{
 	 background:rgba(192,192,192,0.2);
@@ -124,9 +128,7 @@ padding:10px;
 #search-del{
 	width:340px;
 }
-.detect-btn{
-	width:80px;
-}
+
 .expand{
 	width:425px;
 }
